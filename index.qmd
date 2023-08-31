@@ -1,0 +1,20 @@
+---
+title: "About Me"
+image: images/poppy.png
+about:
+  template: jolla
+  image-shape: round
+  image-width: 16em
+  links: 
+    - icon: envelope
+      text: Email
+      href: mailto:luisdaguilar@cpp.edu
+    - icon: github
+      text: Github
+      href: https://github.com/LuisdAguilar
+    - icon: Linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/luis-aguilar-chachagua-48a990212/
+---
+
+I am currently working towards an Applied Mathematics bachelors at Cal Poly, Pomona. After I attain the bachelors, I wish to pursue a Masters in Biostatistics.

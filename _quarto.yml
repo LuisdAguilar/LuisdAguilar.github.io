@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Luis D. Aguilar Chachagua"
+  navbar:
+    background: "#8eed94"
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: cosmos
+    css: styles.css
+    toc: true
+
+editor: visual
+
