@@ -12,5 +12,19 @@
     "title": "About Me",
     "section": "",
     "text": "I am currently working towards an Applied Mathematics bachelors at Cal Poly, Pomona. After I attain the bachelors, I wish to pursue a Masters in Biostatistics."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "My Resume"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "My CV"
   }
 ]
