@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-image: images/prophoto.jpg
+image: images/prophoto.png
 about:
   template: jolla
   image-shape: round
