@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-image: images/poppy.png
+image: images/prophoto.jpg
 about:
   template: jolla
   image-shape: round
