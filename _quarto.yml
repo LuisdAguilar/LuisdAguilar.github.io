@@ -6,7 +6,6 @@ website:
   title: "Luis D. Aguilar Chachagua"
   navbar:
     background: "#8eed94"
-    foreground: ""
     search: true
     left:
       - href: index.qmd
