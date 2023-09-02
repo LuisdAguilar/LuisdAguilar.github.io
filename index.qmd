@@ -16,6 +16,7 @@ about:
       text: Linkedin
       href: https://www.linkedin.com/in/luis-aguilar-chachagua-48a990212/
 ---
+
 ## Introduction
 
 I am currently working towards an Applied Mathematics bachelors at Cal Poly, Pomona. After I attain the bachelors, I wish to pursue a Masters in Biostatistics.

@@ -13,8 +13,6 @@ website:
         text: Home
       - href: resume/Luis Aguilar Resume.pdf
         text: Resume
-      - href: cv.qmd
-        text: CV
 
 format:
   html:
