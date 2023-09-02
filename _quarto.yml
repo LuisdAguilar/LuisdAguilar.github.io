@@ -6,11 +6,12 @@ website:
   title: "Luis D. Aguilar Chachagua"
   navbar:
     background: "#8eed94"
+    foreground: ""
     search: true
     left:
       - href: index.qmd
         text: Home
-      - href: resume.qmd
+      - href: resume/Luis Aguilar Resume.pdf
         text: Resume
       - href: cv.qmd
         text: CV
