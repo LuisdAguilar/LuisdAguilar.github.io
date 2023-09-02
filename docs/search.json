@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "My CV"
   },
   {
     "objectID": "index.html",
@@ -14,17 +14,17 @@
     "text": "I am currently working towards an Applied Mathematics bachelors at Cal Poly, Pomona. After I attain the bachelors, I wish to pursue a Masters in Biostatistics."
   },
   {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "About Me",
     "section": "",
-    "text": "My Resume"
+    "text": "I am currently working towards an Applied Mathematics bachelors at Cal Poly, Pomona. After I attain the bachelors, I wish to pursue a Masters in Biostatistics."
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "My CV"
+    "objectID": "index.html#experiences",
+    "href": "index.html#experiences",
+    "title": "About Me",
+    "section": "Experiences",
+    "text": "Experiences"
   }
 ]
