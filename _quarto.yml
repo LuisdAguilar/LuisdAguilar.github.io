@@ -10,7 +10,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: resume/Luis Aguilar Resume.pdf
+      - href: resume/Resume 2024.pdf
         text: Resume
 
 format:

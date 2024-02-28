@@ -1,30 +1,23 @@
 [
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "My CV"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "I am currently working towards an Applied Mathematics Bachelors at Cal Poly, Pomona. When I have completed my Bachelors I want to go into an industry that is closely related to Data Science. My experiences so far have helped me decide that this is the industry I know I want to spend the rest of my life in. During my job, I want to go back and achieve a Masters in Biostatistics."
+    "text": "I am a 4th year Applied Mathematics student at Cal Poly, Pomona. With the degree, I plan to look for work in the field of Biostatistics. My professional experiences so far have helped me decide that this is the industry I know I want to pursue. On top of these professional goals, I plan to attend a postgraduate program in the same field. I hope that this will help me reach further heights in my career."
   },
   {
     "objectID": "index.html#introduction",
     "href": "index.html#introduction",
     "title": "About Me",
     "section": "",
-    "text": "I am currently working towards an Applied Mathematics Bachelors at Cal Poly, Pomona. When I have completed my Bachelors I want to go into an industry that is closely related to Data Science. My experiences so far have helped me decide that this is the industry I know I want to spend the rest of my life in. During my job, I want to go back and achieve a Masters in Biostatistics."
+    "text": "I am a 4th year Applied Mathematics student at Cal Poly, Pomona. With the degree, I plan to look for work in the field of Biostatistics. My professional experiences so far have helped me decide that this is the industry I know I want to pursue. On top of these professional goals, I plan to attend a postgraduate program in the same field. I hope that this will help me reach further heights in my career."
   },
   {
-    "objectID": "index.html#experiences",
-    "href": "index.html#experiences",
-    "title": "About Me",
-    "section": "Experiences",
-    "text": "Experiences"
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "My CV"
   }
 ]
