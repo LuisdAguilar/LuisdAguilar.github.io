@@ -10,8 +10,11 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: Ernest Prete.qmd
+        text: Ernest Prete Jr. Foundation
       - href: resume/Resume 2024.pdf
         text: Resume
+      
 
 format:
   html:
